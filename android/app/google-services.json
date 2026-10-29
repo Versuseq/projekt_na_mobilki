@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285998555064",
+    "project_id": "bilski",
+    "storage_bucket": "bilski.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285998555064:android:4328172efe48965b32394d",
+        "android_client_info": {
+          "package_name": "com.example.projekt_bilski"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVpTn3lu218Zi5qDfeZhZk5iAveJfHZPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
